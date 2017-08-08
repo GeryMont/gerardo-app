@@ -18,3 +18,11 @@
     </v-flex>
   </v-layout>
 </template>
+
+    <script>
+    export default {
+        head: {
+          title: 'Gerardo-App'
+        }
+      }  
+    </script>
