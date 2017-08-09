@@ -26,3 +26,11 @@
         }
       }  
     </script>
+
+    <style>
+
+    h3{
+      color:#fff;
+    }
+
+    </style>
