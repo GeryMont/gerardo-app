@@ -86,7 +86,9 @@
         items: [
           { icon: 'apps', title: 'Bienvenido', to: '/' },
           { icon: 'bubble_chart', title: 'Inspirar', to: '/inspire' },
-          { icon: 'bubble_chart', title: 'Prueba', to: '/Prueba' }
+          { icon: 'bubble_chart', title: 'Prueba', to: '/Prueba' },
+          { icon: 'bubble_chart', title: 'Cards', to: '/Cards' },
+          { icon: 'bubble_chart', title: 'Menus', to: '/Menus' }
         ],
         miniVariant: false,
         right: true,
