@@ -17,16 +17,15 @@
       return {
         items: [
           {
-            title: 'Click Me'
+            title: 'Home',
+            nuxt:"/"
           },
           {
-            title: 'Click Me'
+            title: 'Cards'
           },
           {
-            title: 'Click Me'
-          },
-          {
-            title: 'Click Me 2'
+            title: 'Partido Obrero',
+            href:"http://www.po.org.ar/"
           }
         ]
       }

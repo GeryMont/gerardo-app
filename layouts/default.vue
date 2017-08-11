@@ -85,10 +85,10 @@
         fixed: false,
         items: [
           { icon: 'apps', title: 'Bienvenido', to: '/' },
-          { icon: 'bubble_chart', title: 'Inspirar', to: '/inspire' },
-          { icon: 'bubble_chart', title: 'Prueba', to: '/Prueba' },
-          { icon: 'bubble_chart', title: 'Cards', to: '/Cards' },
-          { icon: 'bubble_chart', title: 'Menus', to: '/Menus' }
+          { icon: 'blur_on', title: 'Inspirar', to: '/inspire' },
+          { icon: 'bubble_chart', title: 'Prueba', to: '/prueba' },
+          { icon: 'language', title: 'Cards', to: '/cards' },
+          { icon: 'screen_share', title: 'Menus', to: '/menus' }
         ],
         miniVariant: false,
         right: true,

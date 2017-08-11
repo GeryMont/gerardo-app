@@ -1,5 +1,7 @@
 # testing
 
+Trying out vuetify in various ways. Investigation only, not for production.
+
 > Nuxt.js + Vuetify.js project
 
 ## Build Setup

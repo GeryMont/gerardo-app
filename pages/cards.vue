@@ -6,13 +6,13 @@
         </v-card-media>
         <v-card-title primary-title>
           <div>
-            <h3 class="headline mb-0">Kangaroo Valley Safari</h3>
-            <div>Located two hours south of Sydney in the <br>Southern Highlands of New South Wales, ...</div>
+            <h3 class="headline mb-0">Liverpool Football Club</h3>
+            <div>Sitio web del Liverpool Football Club</div>
           </div>
         </v-card-title>
         <v-card-actions>
-          <v-btn flat class="orange--text">Share</v-btn>
-          <v-btn flat class="orange--text">Explore</v-btn>
+          <v-btn flat class="orange--text" tag="a" href="http://www.liverpoolfc.com/welcome-to-liverpool-fc" target="_blank">Web</v-btn>
+          <v-btn flat class="orange--text" nuxt-link to="/prueba">Prueba</v-btn>
         </v-card-actions>
       </v-card>
     </v-flex>
@@ -28,3 +28,11 @@ export default {
     }
   }
 </script>
+
+<style>
+
+h3{
+  color:#d3171e;
+}
+
+</style>
